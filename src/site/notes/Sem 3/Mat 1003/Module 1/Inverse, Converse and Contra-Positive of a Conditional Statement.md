@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/inverse-converse-and-contra-positive-of-a-conditional-statement/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/inverse-converse-and-contra-positive-of-a-conditional-statement/"}
 ---
 
 # Inverse, Converse and Contra-Positive of a Conditional Statement
