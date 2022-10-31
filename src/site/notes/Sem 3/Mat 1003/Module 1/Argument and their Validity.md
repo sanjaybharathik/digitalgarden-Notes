@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/argument-and-their-validity/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/argument-and-their-validity/"}
 ---
 
 # Argument and their Validity
