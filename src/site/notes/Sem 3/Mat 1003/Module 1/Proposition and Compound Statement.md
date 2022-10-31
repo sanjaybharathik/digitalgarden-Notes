@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/proposition-and-compound-statement/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/proposition-and-compound-statement/"}
 ---
 
 # Proposition and Compound Statement
