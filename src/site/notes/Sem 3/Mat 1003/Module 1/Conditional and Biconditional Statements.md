@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/conditional-and-biconditional-statements/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/conditional-and-biconditional-statements/"}
 ---
 
 # Conditional and Biconditional Statements
