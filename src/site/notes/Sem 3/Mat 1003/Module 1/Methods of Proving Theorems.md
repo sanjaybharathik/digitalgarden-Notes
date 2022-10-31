@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/methods-of-proving-theorems/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/methods-of-proving-theorems/"}
 ---
 
 up: [[Sem 3/Mat 1003/1003 Module 1|1003 Module 1]]
