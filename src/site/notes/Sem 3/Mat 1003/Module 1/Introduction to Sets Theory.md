@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/introduction-to-sets-theory/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-1/introduction-to-sets-theory/"}
 ---
 
 # Introduction to Sets Theory
