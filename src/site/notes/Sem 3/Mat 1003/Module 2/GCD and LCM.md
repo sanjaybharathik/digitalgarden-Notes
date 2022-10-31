@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-2/gcd-and-lcm/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/sem-3/mat-1003/module-2/gcd-and-lcm/"}
 ---
 
 
